@@ -131,5 +131,3 @@
   if (typeof module !== "undefined" && module.exports) module.exports = api;
   root.BaixaDateHandler = api;
 })(typeof globalThis !== "undefined" ? globalThis : this);
-
-{
